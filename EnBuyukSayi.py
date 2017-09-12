@@ -1,0 +1,12 @@
+# -*- coding: cp1254 -*-,
+print "Çýkmak Ýçin 999 Giriniz"
+deger = 0
+sayac = 0
+while True:
+ sayi = int(raw_input("sayý giriniz"))
+ if sayi == 999:
+     break
+ elif sayi > deger:
+     deger = sayi
+ sayac += 1
+print "{0} Sayý Girdiniz, Bunlardan En Büyüðü = {1}".format(sayac, deger)
