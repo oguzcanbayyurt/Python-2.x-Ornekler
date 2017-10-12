@@ -1,0 +1,2 @@
+Bilgisayar programciliði programi gece ve gunduz olmak uzere her yil 200 ogrenci
+ ile devam etmektedir.
